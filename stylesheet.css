@@ -31,39 +31,66 @@
 }
 
 #logo{
+
+    margin-top: 10px;
+    margin-left: 20px;
   width: 250px;
-  height: 150px;
-  border: 1px solid red;
+  height: 100px;
 }
 
 #words{
-   width: 90%;
-   border: 1px solid red;
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 90%;
 }
 
 #pic1{
-   width: 150px;
-   height: 150px;
-   border: 1px solid red;
+    background-image: url(images/img1.png);
+    background-repeat: no-repeat;
+    background-size: 130px 130px;
+    background-position: center;
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    top: 230px;
+    left: 30px;
 }
 
 #pic2{
+    background-image: url(images/img2.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: center;
     width: 100px;
     height: 100px;
-    border: 1px solid red;
+    position: absolute;
+    top: 55%;
+    left: 220PX;
 
 }
 
 #pic3{
+    background-image: url(images/img3.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: center;
     width: 100px;
     height: 100px;
-    border: 1px solid red;
+    position: absolute;
+    bottom: 100px;
+    left: 50PX;
 }
 
 #pic4{
+    background-image: url(images/img4.png);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position: center;
     width: 100px;
     height: 100px;
-    border: 1px solid red;
+    position: absolute;
+    bottom:30px ;
+    left:250px ;
 }
 
 
